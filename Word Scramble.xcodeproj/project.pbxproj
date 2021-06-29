@@ -11,6 +11,7 @@
 		566DD32B268B287000CD2F3B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 566DD32A268B287000CD2F3B /* ContentView.swift */; };
 		566DD32D268B287100CD2F3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 566DD32C268B287100CD2F3B /* Assets.xcassets */; };
 		566DD330268B287100CD2F3B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 566DD32F268B287100CD2F3B /* Preview Assets.xcassets */; };
+		566DD338268B289E00CD2F3B /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 566DD337268B289E00CD2F3B /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		566DD32C268B287100CD2F3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		566DD32F268B287100CD2F3B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		566DD331268B287100CD2F3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		566DD337268B289E00CD2F3B /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = "../../../Downloads/HackingWithSwift-main/SwiftUI/project5-files/start.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				566DD32A268B287000CD2F3B /* ContentView.swift */,
 				566DD32C268B287100CD2F3B /* Assets.xcassets */,
 				566DD331268B287100CD2F3B /* Info.plist */,
+				566DD337268B289E00CD2F3B /* start.txt */,
 				566DD32E268B287100CD2F3B /* Preview Content */,
 			);
 			path = "Word Scramble";
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				566DD330268B287100CD2F3B /* Preview Assets.xcassets in Resources */,
+				566DD338268B289E00CD2F3B /* start.txt in Resources */,
 				566DD32D268B287100CD2F3B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
